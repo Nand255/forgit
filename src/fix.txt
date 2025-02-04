@@ -2,3 +2,5 @@ It is a fix file which will be used to fix the bug.
 bug-fix -- incomming changes.
 another stash
 pinlmode fix - one more bug fixed. 
+
+another fix message for purple mode.
